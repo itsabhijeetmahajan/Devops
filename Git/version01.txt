@@ -1,6 +1,7 @@
 
 This is the bug fix in development branch
 After bug fixing, this is the new feature with minor alteration”
+This is the advancement of previous feature
 This is gadbad code
 
 This feature will gadbad everything from now.
